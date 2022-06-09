@@ -208,7 +208,21 @@ html, body {
     height: 600px;
 }
 
-/* SITEMAIN */
+/*Link Style*/
+.port:hover {
+    content : url("/assets/img/portfolio-hover.png");
+}
+.gith:hover {
+    content : url("/assets/img/github-hover.png");
+}
+.btn-study:hover {
+    color: rgb(207, 49, 207);
+}
+.btn-career:hover {
+    color: rgb(207, 49, 207);
+}
+
+/* SITEMAIN */  
 .site-main {
     position: relative;
     margin-bottom: 100px;
